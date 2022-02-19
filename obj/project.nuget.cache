@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPvhaTyGz/lsnOpUNeXTQn+78PRcziJZzhvJUPvcAqMYukViJF8uNl73zYqDeIluPF3cl4MiBVA4GzEVny2n2g==",
+  "dgSpecHash": "7+tb/UiFLu6Vt2hSCkVU2NG7LAvyKSiYFgTcNx/vjVEdnqFqE3uMCPpmjnSr1bK2yof2VeX5Pky+0IrtooOXKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\radja\\OneDrive\\Рабочий стол\\.NET\\Market_App\\Market_App.csproj",
+  "projectFilePath": "C:\\Users\\radja\\OneDrive\\Документы\\GitHub\\Market_console_app\\Market_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radja\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
     "C:\\Users\\radja\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",

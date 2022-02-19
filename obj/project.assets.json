@@ -5763,11 +5763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radja\\OneDrive\\Рабочий стол\\.NET\\Market_App\\Market_App.csproj",
+      "projectUniqueName": "C:\\Users\\radja\\OneDrive\\Документы\\GitHub\\Market_console_app\\Market_App.csproj",
       "projectName": "Market_App",
-      "projectPath": "C:\\Users\\radja\\OneDrive\\Рабочий стол\\.NET\\Market_App\\Market_App.csproj",
+      "projectPath": "C:\\Users\\radja\\OneDrive\\Документы\\GitHub\\Market_console_app\\Market_App.csproj",
       "packagesPath": "C:\\Users\\radja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radja\\OneDrive\\Рабочий стол\\.NET\\Market_App\\obj\\",
+      "outputPath": "C:\\Users\\radja\\OneDrive\\Документы\\GitHub\\Market_console_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5848,7 +5848,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },
